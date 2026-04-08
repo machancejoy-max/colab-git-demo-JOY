@@ -1,1 +1,1 @@
-# colab-git-demo-JOY
+# colab-git-assignments-JOY
